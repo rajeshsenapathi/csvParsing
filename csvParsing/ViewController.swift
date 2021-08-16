@@ -151,6 +151,7 @@ class ViewController: UIViewController {
             
         } catch {
             print("unable to fetch contacts")
+            print("put here an alert")
         }
         return phoneNumberArry
     }
