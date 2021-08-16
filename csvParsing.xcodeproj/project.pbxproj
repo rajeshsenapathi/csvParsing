@@ -13,6 +13,7 @@
 		B044750526C94355003BD0D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B044750326C94355003BD0D2 /* Main.storyboard */; };
 		B044750726C94356003BD0D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B044750626C94356003BD0D2 /* Assets.xcassets */; };
 		B044750A26C94356003BD0D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B044750826C94356003BD0D2 /* LaunchScreen.storyboard */; };
+		B044751226C94405003BD0D2 /* Book.csv in Resources */ = {isa = PBXBuildFile; fileRef = B044751126C94405003BD0D2 /* Book.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B044750626C94356003BD0D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B044750926C94356003BD0D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B044750B26C94356003BD0D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B044751126C94405003BD0D2 /* Book.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Book.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				B04474FD26C94355003BD0D2 /* AppDelegate.swift */,
 				B04474FF26C94355003BD0D2 /* SceneDelegate.swift */,
+				B044751126C94405003BD0D2 /* Book.csv */,
 				B044750126C94355003BD0D2 /* ViewController.swift */,
 				B044750326C94355003BD0D2 /* Main.storyboard */,
 				B044750626C94356003BD0D2 /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B044750A26C94356003BD0D2 /* LaunchScreen.storyboard in Resources */,
+				B044751226C94405003BD0D2 /* Book.csv in Resources */,
 				B044750726C94356003BD0D2 /* Assets.xcassets in Resources */,
 				B044750526C94355003BD0D2 /* Main.storyboard in Resources */,
 			);
